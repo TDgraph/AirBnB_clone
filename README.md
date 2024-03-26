@@ -1,7 +1,7 @@
 # AirBnB clone - The console
 
 
-The AirBnB console this about create a minishell, this console works in interactive and non-interactive mode; this project is just a basic copy of AirBnB, 
+This is the first step towards building a first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration
 
 # command interpreter or console
 The console is very similar to shell except it is a single use function or command line interface which u can create, modify and delete objects in your file storage.
